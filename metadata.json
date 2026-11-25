@@ -1,0 +1,6 @@
+{
+  "name": "AM PIXEL STUDIO – Business Manager",
+  "description": "Complete business management and accounting ERP for AM PIXEL STUDIO — managing clients, creative projects, services, quotations, commercial invoices, receipts, expenses, multi-currency transactions, and financial reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
